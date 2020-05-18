@@ -22,7 +22,7 @@ cd /c/Users/<UserName>/AppData/Local/
 git clone --recurse-submodules -j8 https://github.com/fktpp/clink-profile.git clink
 ```
 
-#Usage
+# Usage
 This package will active automatically in new cmd session. clink will be extended to support more tab completetions such as `choco`, `git`, `conda`, etc.
 
 
